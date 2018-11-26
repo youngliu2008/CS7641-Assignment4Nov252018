@@ -20,7 +20,7 @@ The main folder contains the following files:
 1. .\Solution\easyGW.py easy grid world experiments
 2. .\Solution\hardGW.py hard grid world experiments
 3. .\Solution\mapPlotter.py plot map to policy folder
-4. .\plot_a4.py plot curves to img folder
+4. .\Solution\plot_a4.py plot curves to img folder
 5. .\BURLAP\ folder for burlap source code and plugins
 6. .\Solution\burlap0.8.jar  ->compiled burlap and plugin for stochastic case. Please rename it to burlap.jar
 7. .\Solution\burlap1.0.jar ->compiled burlap and plugin for deterministic case. Please rename it to burlap.jar
